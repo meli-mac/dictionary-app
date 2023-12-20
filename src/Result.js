@@ -6,10 +6,10 @@ export default function Result(props) {
     return (
       <div className="Results">
         <h2>{props.results.word}</h2>
-        {props.results.meanings.map(function (meaning, index) {
+        {props.results.meaning.map(function (meaning, index) {
           return (
             <div key={index}>
-              <Meanings meanings={meaning} />
+              <Meanings meaning={meaning} />
             </div>
           );
         })}
