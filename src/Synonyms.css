@@ -2,6 +2,11 @@
   padding: 0;
 }
 
+.Synonyms ul {
+  margin-top: 10px;
+  margin-left: -33px;
+}
+
 .Synonyms li {
   font-size: 14px;
   display: inline-block;
