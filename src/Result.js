@@ -17,7 +17,7 @@ export default function Result(props) {
                 </div>
               );
             } else {
-              return <></>;
+              return null;
             }
           })}
         </section>

@@ -12,6 +12,16 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
+        <footer>
+          <a
+            href="https://github.com/meli-mac/dictionary-app"
+            rel="noreferrer"
+            target="_blank"
+          >
+            Open-sourced code
+          </a>{" "}
+          by Melissa Machado
+        </footer>
       </div>
     </div>
   );
