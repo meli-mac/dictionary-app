@@ -18,7 +18,7 @@ export default function App() {
             rel="noreferrer"
             target="_blank"
           >
-            Open-sourced code
+            Open-source code
           </a>{" "}
           by Melissa Machado
         </footer>
